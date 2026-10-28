@@ -3,8 +3,8 @@
 A sample website built by **Pontavia Consulting** to show what the **Best (from $3,100)** website package includes.
 Fern & Field Garden Co. is a made-up business in Ocala, Florida.
 
-Live demo: https://pontavia-consulting.github.io/pontavia-sample-best/
-Compare all three packages: https://pontavia-consulting.github.io/pontavia-samples/
+Live demo: https://pontavia-consulting.github.io/Pontavia-Sample-Best/
+Compare all three packages: https://pontavia-consulting.github.io/Pontavia-Samples/
 
 A full online store and customer experience on top of everything in Better: shoppers can find, filter, buy and pick up plants, buy workshop tickets, earn rewards and get answers from a chat widget, with integrations to the point of sale.
 

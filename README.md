@@ -1,6 +1,6 @@
 # Fern & Field Garden Co. — Best package sample
 
-A sample website built by **Pontavia Consulting** to show what the **Best (from $3,100)** website package includes.
+A sample website built by **Pontavia Consulting** to show what the **Custom Build (from $4,500)** website package includes.
 Fern & Field Garden Co. is a made-up business in Ocala, Florida.
 
 Live demo: https://pontavia-consulting.github.io/Pontavia-Sample-Best/
